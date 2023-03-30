@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://example.com"
+base_url = "https://zola-site-eight.vercel.app"
 # The site title and description; used in feeds by default.
 title = "方寸之间"
 description = "记录我的所见所闻所得"
